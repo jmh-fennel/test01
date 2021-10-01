@@ -1,2 +1,6 @@
 Just wanted to put something onto the remote
 
+Changing the file now from a second clone.  Should require a merge, probably
+fast-forward.
+
+
